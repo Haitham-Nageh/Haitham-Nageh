@@ -1,5 +1,5 @@
 # 💫 About Me
-
+Computer Systems Engineering graduate with hands-on experience in full-stack development, backend systems, and AI-powered solutions. Passionate about building projects that improve accessibility and real-world problems using technology.
 👯 **Looking to collaborate on**  
 Front-end, Flutter, or AI projects, especially applications related to accessibility, education, or real-life problem solving.  
 
@@ -69,14 +69,3 @@ I’m passionate about using technology to support people with disabilities, and
 3. **Backend Systems & DevOps Projects**  
    - Engineered multiple backend API routes with TypeScript/Express.  
    - Designed SQL schemas and optimized queries for relational data handling.  
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Haitham-Nageh&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Haitham-Nageh&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham-Nageh&theme=dark&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Haitham-Nageh&icon=0&color=0)](https://visitcount.itsvg.in)
