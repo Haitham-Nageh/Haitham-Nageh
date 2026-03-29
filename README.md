@@ -1,5 +1,6 @@
 # 💫 About Me
 Computer Systems Engineering graduate with hands-on experience in full-stack development, backend systems, and AI-powered solutions. Passionate about building projects that improve accessibility and real-world problems using technology.
+
 👯 **Looking to collaborate on**  
 Front-end, Flutter, or AI projects, especially applications related to accessibility, education, or real-life problem solving.  
 
