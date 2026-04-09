@@ -8,10 +8,8 @@ Front-end, Flutter, or AI projects, especially applications related to accessibi
 Improving skills in computer vision, real-time camera processing, and best practices for deploying production-ready applications.  
 
 🌱 **Currently learning**
-- Flutter through a professional training company  
 - Data analysis via DataCamp  
 - **Odoo Development**, with potential full-time employment  
-- **Oracle APEX** for database-driven web applications  
 
 💬 **Ask me about**  
 Front-end development (HTML, CSS, JavaScript, React), Flutter basics, AI/ML projects, and building graduation projects from idea to implementation.  
